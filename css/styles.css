@@ -1,0 +1,29 @@
+body{
+  background-image: url(https://media0.giphy.com/media/kvLscg1JZ9dM4/200w.webp?cid=790b76115ce8296d377a4b6b6b3c9448&rid=200w.webp);
+  background-position: center;
+  float: none;
+}
+h3{
+  text-align: center;
+  color: blue;
+  font-size: 40px;
+}
+marquee, .text-muted{
+color: #ff0066;
+font-size: 45px;
+}
+form{
+ color: #FF0000;
+ font-size: 30px;
+ padding-right: 450px;
+ background-position: center;
+ border-top: 30px;
+ padding-bottom: 45px;
+ text-align: center;
+}
+div{
+  color: green;
+}
+p{
+  color: blue;
+}
